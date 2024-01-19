@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task_List_App</string>
+    <string name="create_task_main_button">+</string>
+    <string name="main_activity_header_tlbr">Task List</string>
+    <string name="task_name_hint">Event Name</string>
+    <string name="picker_heading">Due Date:</string>
+    <string name="task_name_default_rv">Task</string>
+    <string name="date_default_rv">DUE DATE: 01/01/70 1:00</string>
+    <string name="new_task_header_tlbr">Create Task</string>
+</resources>
